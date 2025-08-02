@@ -1,0 +1,82 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sejal Gaikwad | Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #4a90e2;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      padding: 20px;
+    }
+    h2 {
+      color: #4a90e2;
+    }
+    .projects, .skills, .social {
+      margin-top: 20px;
+    }
+    ul {
+      list-style-type: square;
+      padding-left: 20px;
+    }
+    .project-item {
+      margin-bottom: 15px;
+    }
+    a {
+      color: #4a90e2;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Sejal Gaikwad</h1>
+    <p>Second Year Computer Science (SYCS) Student</p>
+  </header>  <section class="intro">
+    <h2>About Me</h2>
+    <p>I'm a Second Year Computer Science (SYCS) student with a deep passion for both learning and creativity. I enjoy listening to music, dancing, and exploring how technology can blend with my interests. I’m currently looking for opportunities to gain experience—especially in areas like social media management, content creation, and digital branding. I also enjoy coding, particularly in Python, HTML, and other web technologies. I’m excited to work on projects that allow me to express both my technical and creative sides.</p>
+  </section>  <section class="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>Python</li>
+      <li>HTML</li>
+      <li>SQL</li>
+      <li>Canva</li>
+    </ul>
+  </section>  <section class="projects">
+    <h2>Projects</h2>
+    <div class="project-item">
+      <strong>Poster Making in College Fest (Canva)</strong>
+      <p>Designed creative digital posters for college events using Canva, focusing on layout, branding, and aesthetic appeal.</p>
+    </div>
+    <div class="project-item">
+      <strong>Presentations in Different Colleges</strong>
+      <p>Participated and presented on technical and creative topics at intercollegiate events, enhancing my communication and presentation skills.</p>
+    </div>
+    <div class="project-item">
+      <strong>Volunteer - Code in the Dark</strong>
+      <p>Actively contributed as a volunteer in the 'Code in the Dark' competition, helping with event coordination and technical setup.</p>
+    </div>
+  </section>  <section class="social">
+    <h2>Connect With Me</h2>
+    <ul>
+      <li><a href="https://www.linkedin.com/in/sejal-gaikwad-47a94a360" target="_blank">LinkedIn</a></li>
+      <li><a href="https://www.instagram.com/sejj_j04" target="_blank">Instagram</a></li>
+    </ul>
+  </section>
+</body>
+</html>
